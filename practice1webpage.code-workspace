@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AirBnB_clone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practice"
+	}
+}
